@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+
+html,
+body,
+#root,
+.app,
+.content {
+  height: 100%;
+  width: 100%;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.app {
+  display: flex;
+  position: relative;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e0e0e0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-track:hover {
+  background: #555;
+}
+
+.lkTtqM:hover {
+  background-color: transparent !important;
+  color: #868dfb !important;
+}
+
+.cxRqFw {
+  padding: 5px 35px 5px 20px !important;
+  background-color: transparent;
+  color: #868dfb !important;
+}
+
+.cxRqFw:hover {
+  color: #6870fa !important;
+}
+
+.menu-item:active {
+  color: #6870fa !important;
+}
+
+.bOQEtf,
+.djZVNf {
+  border: 0 !important;
+}
+
+.djZVNf,
+.bOQEtf {
+  height: 100% !important;
+}
